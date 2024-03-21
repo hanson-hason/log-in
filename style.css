@@ -11,7 +11,7 @@
 body {
     background-color: rgb(230, 232, 230);
     border: 20px solid rgb(206, 208, 206);
-    width: 597px;
+    width: 1000px;
     margin:auto;
     padding: 25px 18px;
     border-radius: 50px;
@@ -26,6 +26,7 @@ h2 {
     color: rgb(25, 25, 25);
     text-decoration:wavy;
     font-family:'comicsans';
+    font-size: 20px
 }
 
 li {
@@ -39,7 +40,7 @@ p {
 }
 
 h4 {
-    font-size: 5px;
+    font-size: 9px;
     font-family: 'consolas';
     line-height: 0.2px;
     color: rgb(238 37 54);
@@ -47,7 +48,7 @@ h4 {
 }
 
 h5 {
-    font-size: 5px;
+    font-size: 9px;
     color:white;
     font-family: 'consolas';
     line-height: 0.2px;
